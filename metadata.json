@@ -1,0 +1,7 @@
+{
+  "name": "R-QNT Theoretical Physics Simulator",
+  "description": "A high-fidelity simulation and research platform for Rama-Quantum Network Torsion (R-QNT) theory, exploring spacetime as an elastic network of topological knots with dual constant/variable speed of light frameworks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
